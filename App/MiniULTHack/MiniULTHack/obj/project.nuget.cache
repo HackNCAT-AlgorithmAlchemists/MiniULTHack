@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KxkZRqSjzuZz4RQpY+y4TtLRNpIYUr39c48jT8Zv/82UK+IAPhnP68wqDgKvJQlGJk5moWsSSNBw/R/ZxZ1VNw==",
+  "dgSpecHash": "D+AgT3uNrdx8nMnQu54HqB6yTkXvnOYrmQw3zoMlZQ2Af0xb3ahVI/Bi0PVDX+qxP9Egv7MurFvML6CDfFX4vQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\James\\source\\Hackathon\\MiniULTHack\\App\\MiniULTHack\\MiniULTHack\\MiniULTHack.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\James\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
     "C:\\Users\\James\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\James\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\James\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
