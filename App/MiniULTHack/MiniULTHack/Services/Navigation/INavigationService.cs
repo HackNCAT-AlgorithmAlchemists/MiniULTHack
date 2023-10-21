@@ -1,4 +1,4 @@
-﻿namespace MiniUltHack.Services;
+﻿namespace MiniULTHack.Services;
 
 public interface INavigationService
 {

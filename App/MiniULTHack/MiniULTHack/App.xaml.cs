@@ -1,11 +1,15 @@
-﻿namespace MiniULTHack;
+﻿using MiniULTHack.Services;
+
+namespace MiniULTHack;
 
 public partial class App : Application
 {
-	public App()
-	{
-		InitializeComponent();
 
-		MainPage = new AppShell();
-	}
+    private readonly INavigationService _navigationService;
+    public App(INavigationService navigationService)
+    {
+        _navigationService = navigationService;
+        InitializeComponent();
+        MainPage = new AppShell(navigationService);
+    }
 }

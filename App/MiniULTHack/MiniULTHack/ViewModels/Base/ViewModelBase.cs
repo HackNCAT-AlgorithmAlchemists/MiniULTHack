@@ -1,8 +1,8 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
-using MiniUltHack.Services;
+using MiniULTHack.Services;
 
-namespace MiniUltHack.ViewModels.Base;
+namespace MiniULTHack.ViewModels.Base;
 
 public abstract partial class ViewModelBase : ObservableObject, IViewModelBase
 {

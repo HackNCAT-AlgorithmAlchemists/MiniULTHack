@@ -14,4 +14,11 @@ public partial class FridgeView : ContentPageBase
         BindingContext = _viewModel;
         InitializeComponent();
     }
+
+    protected async override void OnAppearing()
+    {
+        base.OnAppearing();
+        await _viewModel.InitializeAsync();
+    }
+
 }

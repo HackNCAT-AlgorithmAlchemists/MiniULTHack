@@ -67,3 +67,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MiniULTHack.Views.LogView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\LogView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\LogView.xaml
+
+[C:/Users/James/source/Hackathon/MiniULTHack/App/MiniULTHack/MiniULTHack/Views/NewPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiniULTHack.Views.NewPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\NewPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\NewPage1.xaml
