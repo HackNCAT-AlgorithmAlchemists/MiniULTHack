@@ -4,6 +4,5 @@ namespace MiniULTHack.Services
 {
     public interface IConnectionService : ILoginService, IFridgeRetrieverService
     {
-        string testLs();
     }
 }

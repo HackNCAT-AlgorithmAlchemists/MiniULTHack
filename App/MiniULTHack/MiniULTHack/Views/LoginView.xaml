@@ -23,7 +23,7 @@
                    VerticalOptions="Center" />
 
             <Entry MinimumWidthRequest="20"
-                   HeightRequest="41"
+                   HeightRequest="50"
                    Text="{Binding GatewayIp}"
                    FontSize="34" />
 
@@ -40,7 +40,7 @@
                    VerticalOptions="Center" />
 
             <Entry MinimumWidthRequest="20"
-                   HeightRequest="41"
+                   HeightRequest="50"
                    Text="{Binding Username}"
                    FontSize="34"
                    HorizontalOptions="Center"
@@ -58,7 +58,7 @@
                    VerticalOptions="Center" />
 
             <Entry MinimumWidthRequest="20"
-                   HeightRequest="41"
+                   HeightRequest="50"
                    Text="{Binding Password}"
                    IsPassword="True"
                    FontSize="34"
