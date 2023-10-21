@@ -1,4 +1,4 @@
-using PersonalDictionary.ViewModels.Base;
+using MiniUltHack.ViewModels.Base;
 
 namespace PersonalDictionary.Views.Base;
 

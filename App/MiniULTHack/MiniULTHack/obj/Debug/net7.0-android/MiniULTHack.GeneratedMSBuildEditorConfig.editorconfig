@@ -43,3 +43,27 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MiniULTHack.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/James/source/Hackathon/MiniULTHack/App/MiniULTHack/MiniULTHack/Views/FridgeClusterView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiniULTHack.Views.FridgeClusterView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\FridgeClusterView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\FridgeClusterView.xaml
+
+[C:/Users/James/source/Hackathon/MiniULTHack/App/MiniULTHack/MiniULTHack/Views/FridgeView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiniULTHack.Views.FridgeView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\FridgeView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\FridgeView.xaml
+
+[C:/Users/James/source/Hackathon/MiniULTHack/App/MiniULTHack/MiniULTHack/Views/LoginView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiniULTHack.Views.LoginView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginView.xaml
+
+[C:/Users/James/source/Hackathon/MiniULTHack/App/MiniULTHack/MiniULTHack/Views/LogView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiniULTHack.Views.LogView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LogView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LogView.xaml

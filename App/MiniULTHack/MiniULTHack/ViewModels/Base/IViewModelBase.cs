@@ -1,7 +1,7 @@
 ﻿using CommunityToolkit.Mvvm.Input;
-using PersonalDictionary.Services;
+using MiniUltHack.Services;
 
-namespace PersonalDictionary.ViewModels.Base;
+namespace MiniUltHack.ViewModels.Base;
 
 public interface IViewModelBase : IQueryAttributable
 {

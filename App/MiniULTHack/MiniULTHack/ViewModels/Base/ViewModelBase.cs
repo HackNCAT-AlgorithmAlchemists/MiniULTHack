@@ -51,5 +51,9 @@ public abstract partial class ViewModelBase : ObservableObject, IViewModelBase
             OnPropertyChanged(nameof(IsBusy));
         }
     }
+
+    public void ApplyQueryAttributes(IDictionary<string, object> query)
+    {
+    }
 }
 
